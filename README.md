@@ -20,3 +20,5 @@ This is the end.
 Another commit
 Test-signing
 with gpg
+
+test with signingUser set up
